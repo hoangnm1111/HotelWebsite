@@ -8,5 +8,5 @@ Project II: Hệ thống hỗ trợ đặt phòng và quản lý khách sạn
 4. Sao chép thư mục chứa trang web vào thư mục htdocs của XAMPP
 5. Mở trình duyệt web và nhập localhost/[thư mục lưu code đã clone]
 
-Chi tiết cài đặt xem thông mục IV của báo cáo cuối kì.
+Chi tiết cài đặt xem thư mục IV của báo cáo cuối kì.
  
